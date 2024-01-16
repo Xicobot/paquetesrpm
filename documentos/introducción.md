@@ -1,5 +1,4 @@
 # 1. Introducción
----
 ## ¿Que son los paquetes RPM?
 RPM es un acronimo de [Redhat](https://www.redhat.com/es) Package Manager, es una herramienta que usamos como recurso en el sitema operativo Redhat o distribuciones de ella que tengan como recurso principal y herramienta de recursos principal los paquetes RPM.
 
