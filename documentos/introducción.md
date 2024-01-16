@@ -8,18 +8,17 @@ Estos funcionan de manera distinta que los paquetes .deb, ya que estos requieren
 
 ### Comandos:
 
-
-rpm -i {package.rpm}
-rpm -u {package.rpm}es utilizado para actualizar los paquetes de software.
-    rpm -qa : comando te arrojará una lista de todos los paquetes instalados en los sistemas operativos.
-    rpm-qpl {package.rpm} : ofrece la lista de archivos proporcionados por un paquete instalado para instalar RPM.
-    rpm -qf {path/to/file} : determina el paquete que posee un archivo.
-    rpm -e {packag.rpm} : este comando elimina un paquete instalado, pero deja los archivos de configuración.
-    rpm -V : comando que cumple la función de verificación de un paquete.
-    rpm -qi foo : se encarga de mostrar información acerca de un paquete RPM.
-    rpm ql foo : este comando lista los ficheros de un paquete RPM instalado.
-    rpm qc foo: muestra la lista de ficheros de configuración.
-    rpm -q foo: muestra el nombre del paquete, la versión y el número de lanzamiento del paquete foo instalado en el sistema.
-    rpm -q : consulta a la base de datos de paquetes instalados.
+`rpm -i {package.rpm}´
+`rpm -u {package.rpm}´
+`rpm -qa´
+`rpm-qpl {package.rpm}´
+`rpm -qf {path/to/file}´
+`rpm -e {packag.rpm}´
+`rpm -V´
+`rpm -qi foo´
+`rpm ql foo´
+`rpm qc foo´
+`rpm -q foo´
+`rpm -q´
     
 Nosotros, en el [caso practico](/documentos/casopractico.md) haremos un par de instalaciones y demostraciones de paquetes RPM en linux.
