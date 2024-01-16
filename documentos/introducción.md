@@ -8,28 +8,28 @@ Estos funcionan de manera distinta que los paquetes .deb, ya que estos requieren
 
 ### Comandos:
 
-`rpm -i {package.rpm}
+`rpm -i {package.rpm}´
 
-`rpm -u {package.rpm}
+`rpm -u {package.rpm}´
 
-`rpm -qa
+`rpm -qa´
 
-`rpm-qpl {package.rpm}
+`rpm-qpl {package.rpm}´
 
-`rpm -qf {path/to/file}
+`rpm -qf {path/to/file}´
 
-`rpm -e {packag.rpm}
+`rpm -e {packag.rpm}´
 
-`rpm -V
+`rpm -V´
 
-`rpm -qi foo
+`rpm -qi foo´
 
-`rpm ql foo
+`rpm ql foo´
 
-`rpm qc foo
+`rpm qc foo´
 
-`rpm -q foo
+`rpm -q foo´
 
-`rpm -q
+`rpm -q´
     
 Nosotros, en el [caso practico](/documentos/casopractico.md) haremos un par de instalaciones y demostraciones de paquetes RPM en linux.
