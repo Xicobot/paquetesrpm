@@ -3,7 +3,7 @@ Trabajo de 1ASIR Sobre los paquetes rpm
 
 ## Indice:
 ### 1. [Introducción](/documentos/introducción.md)
-### 2. Distribucion Rocky Linux
+### 2. [Distribucion Rocky Linux](/documentos/distro.md)
 ### 3. Repositorios
 ### 4. Caso practico
 ### 5. Webgrafia
