@@ -1,3 +1,4 @@
+[rockylinux](/img/rockylinux.png)
 # Paquetes RPM
 Trabajo de 1ASIR Sobre los paquetes rpm
 
@@ -7,3 +8,5 @@ Trabajo de 1ASIR Sobre los paquetes rpm
 ### 3. Repositorios
 ### 4. Caso practico
 ### 5. Webgrafia
+https://es.wikipedia.org/wiki/Rocky_Linux
+https://www.hostinger.es/tutoriales/rocky-linux
