@@ -10,4 +10,3 @@ Todos estos repositorios se encuentran en los archivos de configuracion de
 ```
 /etc/yum.conf
 /etc/yum.repos.d
-´´´
