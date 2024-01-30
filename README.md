@@ -7,6 +7,4 @@ Trabajo de 1ASIR Sobre los paquetes rpm
 ### 2. [Distribucion Rocky Linux](/documentos/distro.md)
 ### 3. [Repositorios](/documentos/repos.md)
 ### 4. [Caso practico](/documentos/cp.md)
-### 5. Webgrafia
-#### https://es.wikipedia.org/wiki/Rocky_Linux
-#### https://www.hostinger.es/tutoriales/rocky-linux
+### 5. [Webgrafia](/documentos/web.md)
