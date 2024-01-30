@@ -1,4 +1,4 @@
-[rockylinux](/img/rockylinux.png)
+![rockylinux](/img/rockylinux.png)
 # Paquetes RPM
 Trabajo de 1ASIR Sobre los paquetes rpm
 
