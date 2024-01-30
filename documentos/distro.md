@@ -3,4 +3,5 @@ Esta distribucion de linux, está diseñada para ordenadores o servidores potent
 Esta distro salio debido a que RedHat anuncio su incompatibilidad con CentOS, esto llevo a su creacion y distribucion.
 ## Caracteristicas basicas del equipo
 ![tabla.png](/img/tabla.png)
+
 [(Tabla sacada de esta pagina web)](https://docs.cpanel.net/installation-guide/system-requirements-rockylinux/)
