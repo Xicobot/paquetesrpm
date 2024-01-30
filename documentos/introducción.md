@@ -8,4 +8,4 @@ Estos funcionan de manera distinta que los paquetes .deb, ya que estos requieren
 
 ### Caso practico
 Nosotros, en el [caso practico](/documentos/casopractico.md) haremos un par de instalaciones y demostraciones de paquetes RPM en linux.
-[rpm.png](/img/rpm.png)
+![rpm.png](/img/rpm.png)
